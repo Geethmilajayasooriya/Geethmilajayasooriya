@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Engineering Undergraduate | Full-Stack Developer | AI & ML Enthusiast | Cyber Security & SQA Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="200" alt="coding-gif"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=500&lines=Building+Smart+Tech+Solutions...;Exploring+AI+and+Machine+Learning...;Creating+High-Quality+Software..." alt="Typing SVG">
 </p>
 
 <p align="center">
