@@ -9,7 +9,7 @@
   <a href="mailto:geethmilajayasooriya2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-geethmilajayasooriya2001@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-  <a href="https://linkedin.com/in/geethmilajayasooriya" target="_blank">
+  <a href="https://www.linkedin.com/in/geethmila-jayasooriya-27ab1b300/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://fb.com/geethmilajayasooriya" target="_blank">
