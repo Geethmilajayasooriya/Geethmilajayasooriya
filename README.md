@@ -52,15 +52,6 @@ Artificial Intelligence, Machine Learning, Data Science, Full-Stack Development,
 ---
 
 
-## 🔗 Featured Projects
-Here are some of my notable projects:
-
-- [StuManage](https://github.com/Geethmilajayasooriya/studentmanagemet_withSpringboot) - Full-stack Student Management System (React + Spring Boot)  
-- [Library Management System](https://github.com/Geethmilajayasooriya/LibraryManagement) - GUI-based library app in Java  
-- [Supermarket Assistant Chatbot](https://github.com/Geethmilajayasooriya/SupermarketChatbot) - NLP project mapping customer inputs to shelf locations  
-- [Two-Lift Simulation](https://github.com/Geethmilajayasooriya/TwoLiftSimulation) - Java-based building lift system simulator  
-
----
 
 ## 🤝 Let's Connect
 I’m open to **collaborations, internships, and projects**. Feel free to reach out!  
@@ -69,7 +60,11 @@ I’m open to **collaborations, internships, and projects**. Feel free to reach 
   <a href="mailto:geethmilajayasooriya2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/geethmilajayasooriya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" />
+  <p align="center">
+  <a href="https://www.linkedin.com/in/geethmila-jayasooriya-27ab1b300/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" 
+      alt="LinkedIn Follow Badge"
+    />
   </a>
 </p>
